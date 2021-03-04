@@ -9,7 +9,7 @@ a {
 div {
   font-weight: normal;
   display: block;
-  line-height: 1.7;
+  line-height: 1.75;
   margin: auto;
   max-width: 600px;
   padding-left: 20px;
@@ -19,12 +19,12 @@ div {
 
 .description {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 95%;
+  font-size: 100%;
 }
 
 .footer {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 95%;
+  font-size: 100%;
   width: 100%;
   color: Grey;
 }

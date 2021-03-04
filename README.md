@@ -1,1 +1,0 @@
-# rockpaperscheme.github.io
